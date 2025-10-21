@@ -133,16 +133,6 @@ flutter run
 
 ---
 
-## 🧑‍💻 Team Members
-
-| Name            | Role                               | Responsibility                |
-| --------------- | ---------------------------------- | ----------------------------- |
-| Pragati Kharose | Flutter Developer & ML Integration | Frontend UI, Flask connection |
-| [Teammate 2]    | Backend Developer                  | Flask API, MySQL database     |
-| [Teammate 3]    | ML Engineer                        | Model training & evaluation   |
-| [Teammate 4]    | Research & Documentation           | Literature survey, reports    |
-
----
 
 ## 📚 References
 
@@ -153,10 +143,3 @@ flutter run
 
 
 
-## 💬 Acknowledgment
-
-Special thanks to **Xavier Institute of Engineering (XIE)** and our faculty mentors for their continuous guidance and support throughout the development of this project.
-
----
-
-Would you like me to **customize this README** with your actual teammates’ names and GitHub links, or make it look more **academic (for submission)** or **industry-style (for portfolio/GitHub)**?
